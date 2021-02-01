@@ -1,0 +1,111 @@
+name,source,difficulty,notes,mileage,elevation_gain,key
+Andrews Glacier,Line shapes and difficulty rating from Powder Project.,Difficult,,0.71,1157,AG
+Upper Hidden Valley Ascent,Line shapes and difficulty rating from Powder Project.,Ascent,,1.16,1074,UH
+Aspen,Line shapes and difficulty rating from Powder Project.,Intermediate,,0.68,735,AS
+Banana Bowls,Line shapes and difficulty rating from Powder Project.,Intermediate,A large portion of the face around this line provides safe and fun mid-winter glade skiing.,0.52,901,BB
+Corral Couloir,Line shapes and difficulty rating from Powder Project.,Difficult,,0.28,623,CC
+Dead Elk Couloir Approach,Line shapes and difficulty rating from Powder Project.,Ascent,,0.48,534,DA
+Dead Elk Couloir,Line shapes and difficulty rating from Powder Project.,Very Difficult,,0.5,1840,DE
+Dragontail Couloir,Line shapes and difficulty rating from Powder Project.,Very Difficult,,0.49,1828,DC
+Dream Lake Chutes,Line shapes and difficulty rating from Powder Project.,Difficult,,0.21,468,DL
+East Couloir of Hallett Peak,Line shapes and difficulty rating from Powder Project.,Difficult,,0.31,977,EC
+Emerald Lake Approach,Line shapes and difficulty rating from Powder Project.,Ascent,,1.36,641,EL
+Flattop Mountain Approach,Line shapes and difficulty rating from Powder Project.,Ascent,,4.64,3232,FM
+Lower T Bar Ascent,Line shapes and difficulty rating from Powder Project.,Ascent,,0.63,764,LA
+Ptarmigan,Line shapes and difficulty rating from Powder Project.,Easy,,0.21,141,PT
+Juniper,Line shapes and difficulty rating from Powder Project.,Intermediate,,0.58,702,JU
+Keplinger's Couloir,Line shapes and difficulty rating from Powder Project.,Very Difficult,,0.97,2425,KC
+Lower T-Bar,Line shapes and difficulty rating from Powder Project.,Intermediate,,0.51,739,LT
+Mario Gully,Line shapes and difficulty rating from Powder Project.,Difficult,,0.31,443,MG
+North Face of Longs Peak,Line shapes and difficulty rating from Powder Project.,Very Difficult,"This line has a very narrow window for when it is ""in"". It is recommended to climb this route before skiing it to ensure proper conditions.",0.26,975,NF
+Otis Redding Couloir,Line shapes and difficulty rating from Powder Project.,Difficult,,0.22,524,OR
+Red Mountain Descent,Line shapes and difficulty rating from Powder Project.,Difficult,,0.68,508,RM
+Smoke and Dragons,Line shapes and difficulty rating from Powder Project.,Very Difficult,,0.25,999,SD
+Terrain Park,Line shapes and difficulty rating from Powder Project.,Difficult,,0.26,493,TP
+Tyndall Glacier,Line shapes and difficulty rating from Powder Project.,Difficult,,0.17,402,TG
+Tyndall Gorge Descent,Line shapes and difficulty rating from Powder Project.,Difficult,,1.22,1785,TD
+Upper Main Slope 1,Line shapes and difficulty rating from Powder Project.,Intermediate,,0.55,978,UM
+Windows,Line shapes and difficulty rating from Powder Project.,Intermediate,,0.44,935,WI
+Approach to The Loch and Andrews Glacier,Line shapes and difficulty rating from Powder Project.,Ascent,,3.32,1330,AL
+Flattop East Face Approach,Line shapes and difficulty rating from Powder Project.,Ascent,,0.69,276,FE
+Dream Chutes Ascent,https://caltopo.com/m/7LKT,Ascent,,1.32,1245,DH
+Dream Lake Chutes,https://caltopo.com/m/7LKT,Difficult,,0.16,437,DM
+Haiyaha Couloir,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/haiyaha-couloir/,Difficult,,0.21,632,HC
+Elevator Shaft Couloir (Chaos Couloir),"https://www.summitpost.org/chaos-couloir/628080, https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/elevator-shaft/",Very Difficult,,1.17,2246,ES
+South Face of Hallett Peak,"https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/hallett-peak-south-face/, https://caltopo.com/m/7LKT",Very Difficult,,1.6,2478,SF
+Hippy Trees,https://caltopo.com/m/7LKT,Intermediate,,0.24,426,HT
+Lake Haiyaha Approach,https://caltopo.com/m/3DGC,Ascent,,0.47,10,LH
+Otis Redding Couloir Approach,https://caltopo.com/m/3DGC,Ascent,,0.73,310,OA
+Hourglass Couloir Approach,https://caltopo.com/m/3DGC,Ascent,,0.32,897,HA
+Hourglass Couloir,"https://caltopo.com/m/3DGC, https://caltopo.com/m/RV2S",Difficult,,0.31,897,HO
+Notchtop Couloir,https://caltopo.com/m/7LKT,Very Difficult,,0.37,1272,NC
+Sundance Mountain Couloirs,"https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/sundance-northeast-couloirs/, https://14erskiers.com/blog/2016/06/sundance-mountain-6-18-16/",Difficult,"Great summer lines. After skiing these couloirs, you can either hike back out to Trail Ridge Rd or stash a car on Fall River Rd and ski down to there.",0.49,1435,SM
+Sundance Mountain Couloirs,"https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/sundance-northeast-couloirs/, https://14erskiers.com/blog/2016/06/sundance-mountain-6-18-16/",Difficult,"Great summer lines. After skiing these couloirs, you can either hike back out to Trail Ridge Rd or stash a car on Fall River Rd and ski down to there.",0.55,1459,SC
+Rock Garden,https://caltopo.com/m/RV2S,Intermediate,,0.42,545,RG
+Sundance Mountain North Face,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/sundance-mountain-north-face/,Easy,Summer line,0.58,785,SN
+Toll Memorial Trail,RMNP GIS data,Ascent,,0.55,149,TM
+Sundance Mountain North Face,http://climbinglife.com/sundance-mountain-north-face/,Difficult,,0.6,1355,SU
+Approach to Sundance Couloirs,<Null>,Ascent,Please only travel here if snow covered. Damage done by walking on alpine tundra can take hundreds of years to recover.,0.64,74,AI
+Approach to Sundance Couloirs,<Null>,Ascent,Please only travel here if snow covered. Damage done by walking on alpine tundra can take hundreds of years to recover.,0.11,90,AC
+Mini AK Couloir,http://climbinglife.com/knobtop-mtn-mini-ak-couloir-v15-1271/,Very Difficult,,0.15,670,MA
+Approach,<Null>,Ascent,,1.35,389,AA
+Approach to Joe Mills Glades,https://caltopo.com/m/7LKT,Ascent,,0.25,380,AJ
+Joe Mills Glades,https://caltopo.com/m/7LKT,Intermediate,"A large part of this face provides open, nicely spaced glades.",0.21,665,JO
+Ptarmigan Glacier,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/ptarmigan-glacier/,Difficult,,0.49,1166,PG
+Ptarmigan Headwall 1,https://caltopo.com/m/3P6D,Very Difficult,,0.38,1209,PH
+Ptarmigan Headwall 2,https://caltopo.com/m/3P6D,Very Difficult,,0.17,743,PE
+Ptarmigan Headwall 3,https://caltopo.com/m/3P6D,Very Difficult,,0.26,940,PA
+Approach to Notchtop and Ptarmigan,<Null>,Ascent,,0.62,394,AN
+Approach to Knobtop,<Null>,Ascent,,0.77,786,AK
+Notchtop Spire Couloir,"https://www.backcountryrecon.com/colorado/rocky-mountain-national-park/notchtop-spire-couloir,",Very Difficult,,0.36,1333,NS
+Lambslide Couloir,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/lambs-slide-couloir/,Difficult,,0.32,1186,LC
+Trough Couloir,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/trough-couloir/,Very Difficult,Standard winter ascent of Longs Peak,0.78,2463,TC
+The Loft,https://caltopo.com/m/RJM3,Very Difficult,This route requires exposed scrambling.,0.8,1834,TL
+Clark's Arrow,https://caltopo.com/m/RJM3,Ascent,,0.47,41,CA
+Ascent from Trough to Longs Peak,https://caltopo.com/m/RJM3,Ascent,"After ascending Trough Couloir, you can meet up with the standard Keyhole route to summit Longs Peak.",0.2,338,AT
+Chasm Lake Trail,NPS GIS data,Ascent,,0.87,255,CL
+Approach to Lambslide Couloir,<Null>,Ascent,,0.63,461,AM
+Approach to Keplinger's and Dragon's Egg via Sandbeach Lake Trail,NPS GIS data,Ascent,,4.63,2173,AD
+Lambslide to the Loft,<Null>,Ascent,,0.11,23,LL
+The Loft to Mt Meeker,<Null>,Ascent,,0.24,312,LM
+Dragon's Egg Couloir,"https://www.summitpost.org/climbing-diagram/1036026/c-1036025, https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/dragons-egg-couloir/",Very Difficult,,1.3,3268,DR
+Approach to the Trough via Black Lake Trail,https://www.summitpost.org/longs-peak-via-the-trough-in-winter-a-test-of-fortitude/492116,Ascent,,3.29,1666,AB
+Boulder Field Trail,NPS GIS data,Ascent,,1.4,643,BF
+Jim's Grove Trail,NPS GIS data,Ascent,,4.41,2682,JG
+Approach to the North Face of Longs Peak,<Null>,Ascent,,0.38,565,AF
+Boulderfield to the Trough,https://caltopo.com/m/RJM3,Ascent,,0.77,656,BT
+Approach to Keplinger's Couloir,https://www.summitpost.org/keplinger-s-couloir/164202,Ascent,,1.56,1060,AO
+Approach to Eugenia,https://caltopo.com/m/RV2S,Ascent,,0.84,159,AE
+Eugenia,https://caltopo.com/m/RV2S,Intermediate,,0.75,1117,EU
+Eugenia,https://caltopo.com/m/RV2S,Intermediate,,0.56,911,EG
+Eugenia,https://caltopo.com/m/RV2S,Intermediate,,0.75,1144,EN
+Eugenia Ridge,https://caltopo.com/m/RV2S,Intermediate,,0.67,985,ER
+Lightning Ridge,https://caltopo.com/m/RV2S,Intermediate,,1.01,1075,LR
+Larkspur,https://caltopo.com/m/RV2S,Intermediate,,0.33,586,LS
+Larkspur / Battle Mountain,https://caltopo.com/m/RV2S,Intermediate,,1.02,1400,LB
+Larkspur Point,https://www.hikingproject.com/trail/7000471/jims-grove-trail',Intermediate,,0.41,821,LP
+Jim's Grove,https://caltopo.com/m/RV2S,Intermediate,,0.93,935,JI
+Boulder Brook,https://caltopo.com/m/RV2S,Intermediate,,0.66,1185,BO
+Jim's Grove,"https://caltopo.com/m/RV2S, https://www.hikingproject.com/trail/7000471/jims-grove-trail",Intermediate,,1.09,993,JM
+Upper Main Slope 2,<Null>,Intermediate,,0.57,1047,US
+Tyndall Couloir,"https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/tyndall-couloir/, https://14erskiers.com/blog/2015/07/tr-tyndall-couloir-glacier-25-june-2015/",Difficult,,0.17,512,TY
+Approach to Fairchild South Face,https://www.powderproject.com/trail/7000848/fairchild-mountain-fay-lakes-approach,Ascent,,5.31,2478,AH
+Fairchild Mountain South Face,https://www.powderproject.com/trail/7000849/fairchild-mountain-south-face,Difficult,,1.04,2447,FS
+Y Couloir,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/ypsilon-east-face/,Very Difficult,,0.47,2023,YC
+Y Couloir Right Fork,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/ypsilon-east-face/,Very Difficult,,0.2,1068,YR
+Approach to Y Couloir,"https://www.americansouthwest.net/colorado/rocky-mountain/ypsilon-lake-trail.html, http://www.larsonweb.com/ypsilon/, https://www.summitpost.org/ypsilon-mountain/151685",Ascent,,1.1,789,AY
+Banana Peel Couloir,https://www.backcountryrecon.com/colorado/front-range/rocky-mountain-national-park/banana-peel-couloir/,Difficult,This couloir can be accessed from Endovalley or the Alpine Visitor Center. Some people do a point-to-point with a car at each end.,0.67,2103,BP
+Alpine Visitor Center to Banana Peel Couloir,https://www.14ers.com/php14ers/tripreport.php?trip=5979,Ascent,,4.39,1143,AR
+Endovalley to Banana Peel Couloir,https://www.14ers.com/php14ers/tripreport.php?trip=5979,Ascent,,2.42,2226,AP
+Red Mountain Trail,"https://www.frontrangeskimo.com/mount-nimbus, RMNP GIS data",Ascent,,1.01,328,RT
+Red Mountain Trail to Grand Ditch Rd,"https://www.frontrangeskimo.com/mount-nimbus, RMNP GIS data",Ascent,,3.35,1180,GD
+Approach to Mt Cumulus,https://www.frontrangeskimo.com/mount-cumulus,Ascent,,0.76,846,AU
+Approach to Mt Nimbus,https://www.frontrangeskimo.com/mount-nimbus,Ascent,,0.73,685,PN
+Approach to Howard Mountain,https://www.frontrangeskimo.com/howard-mountain,Ascent,,1.53,1335,AW
+Snow Shortcut,https://www.frontrangeskimo.com/mount-nimbus,Ascent,"Please only use this shortcut when there is snow cover. When snow is not present, it is best to stay on designated trails when possible.",0.75,559,SS
+Snow Shortcut,https://www.frontrangeskimo.com/mount-nimbus,Ascent,"Please only use this shortcut when there is snow cover. When snow is not present, it is best to stay on designated trails when possible.",0.69,338,ST
+Mt Nimbus Northeast Face,https://www.frontrangeskimo.com/mount-nimbus,Difficult,,0.85,1460,MN
+Mt Cumulus East Bowl 1,https://www.frontrangeskimo.com/mount-cumulus,Difficult,,0.6,1262,MT
+Mt Cumulus East Bowl 2,https://www.frontrangeskimo.com/mount-cumulus,Difficult,,0.42,1069,MC
+Mt Cumulus East Bowl 3,https://www.frontrangeskimo.com/mount-cumulus,Difficult,,0.53,1098,MU
+South Face of Howard Mountain,https://www.frontrangeskimo.com/howard-mountain,Difficult,,0.62,1215,HM
